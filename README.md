@@ -12,8 +12,6 @@
 
 ## 팀 소개
 
-> 특화 프로젝트 2반 4팀
-
 - 조항준 | 👍 팀장 | ☕ FE | 🤖 AI
 - 강수현 | 🖐 팀원 | ☕ FE | 💠 JIRA | 📃 문서
 - 승나연 | 🖐 팀원 | ⚡ BE | 🚀 배포 | 🎬 UCC
@@ -107,13 +105,11 @@
 
   - React
 
-  - Redux
+  - Redux Toolkit
 
   - TypeScript
 
-  - CSS, HTML5
 
-  - Node.js
 
 
 - DevOps
